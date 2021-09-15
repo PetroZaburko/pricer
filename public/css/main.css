@@ -1,0 +1,100 @@
+
+
+.log-form {
+    width: 500px;
+    margin: 50px auto;
+}
+.log-form p {
+    color: #495057;
+}
+.log-form form {
+    margin-bottom: 15px;
+    background: #f7f7f7;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+}
+.log-form h2 {
+    margin: 0 0 15px;
+}
+.input-group-text .fas {
+    font-size: 24px;
+}
+.form-control, .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+.input-group-text .fas {
+    font-size: 24px;
+}
+.btn {
+    font-weight: bold;
+}
+.log-form .fa-check {
+    color: #fff;
+    left: 17px;
+    top: 18px;
+    font-size: 18px;
+    position: absolute;
+}
+
+
+
+header {
+    margin: 20px 0;
+    height: 100px;
+}
+
+.form-control-sm {
+    width: 100%;
+    border: 1px solid grey;
+}
+
+#extra {
+    width: 35%;
+}
+
+menu {
+    padding: 0;
+    /*padding: 20px; !important;*/
+}
+
+
+
+
+/*inner table for adverts*/
+.adverts-inner-table {
+    margin-bottom: 0px !important;
+}
+.adverts-inner-table img {
+    height: 60px;
+}
+.adverts-inner-table-id {
+    width: 15%;
+}
+.adverts-inner-table-title {
+    width: 40%;
+}
+.adverts-inner-table-img {
+    width: 10%;
+}
+.adverts-inner-table-cat {
+    width: 20%;
+}
+.adverts-inner-table-act {
+    width: 15%;
+}
+
+
+.message-info {
+    display: none;
+}
+
+.modal-message-info {
+    padding: 0 1rem;
+    display: none;
+
+}.modal-message-info .alert {
+    margin-bottom: 0;
+    margin-top: 1rem;
+}
+
